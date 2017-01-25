@@ -5,12 +5,12 @@ Composer configuration for quickly starting a PHPSpec based TDD code kata
 
 [Install composer](https://getcomposer.org/download/)
 
-`git clone  git@github.com:mlopes/CodeKata-Base.git CodeKata`
+$ `git clone  git@github.com:mlopes/CodeKata-Base.git CodeKata`
 
-`cd CodeKata`
+$ `cd CodeKata`
 
-`composer.phar install`
+$ `composer.phar install`
 
-`bin/phpspec desc YourClass`
+$ `bin/phpspec desc YourClass`
 
-`bin/phpspec run`
+$ `bin/phpspec run`
